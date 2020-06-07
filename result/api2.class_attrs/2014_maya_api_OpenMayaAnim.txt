@@ -1,0 +1,3 @@
+MAnimCurveChange.redoIt
+MAnimCurveChange.undoIt
+MAnimUtil.isAnimated

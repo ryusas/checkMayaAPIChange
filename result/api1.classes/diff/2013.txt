@@ -1,0 +1,3 @@
+A MAttributePattern
+A MAttributePatternArray
+D MStatus

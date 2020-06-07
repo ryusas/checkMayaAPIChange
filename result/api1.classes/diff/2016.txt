@@ -1,0 +1,7 @@
+A MCurveAttribute
+A MEvaluationManager
+A MEvaluationNode
+A MEvaluationNodeIterator
+A MFnMatrixArrayData
+A MInt64Array
+A MUuid

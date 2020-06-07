@@ -1,0 +1,9 @@
+A MCacheSchema
+A MCacheSchemaAttributesIterator
+A MCacheSchemaAttributesIteratorSentinel
+A MCacheSchemaAttributesRange
+A MFnStandardSurfaceShader
+A MNodeCacheDisablingInfo
+A MNodeCacheDisablingInfoHelper
+A MNodeCacheSetupInfo
+A MTimeRange

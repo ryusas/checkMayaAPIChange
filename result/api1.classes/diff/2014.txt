@@ -1,0 +1,12 @@
+A MAddRemoveAttrEdit
+A MConnectDisconnectAttrEdit
+A MDAGDrawOverrideInfo
+A MEdit
+A MFcurveEdit
+A MFnAssembly
+A MFnFloatArrayData
+A MFnReference
+A MItEdits
+A MParentingEdit
+A MSetAttrEdit
+A MURI

@@ -1,0 +1,10 @@
+MAnimControl
+MAnimCurveChange
+MAnimCurveClipboard
+MAnimCurveClipboardItem
+MAnimCurveClipboardItemArray
+MAnimMessage
+MAnimUtil
+MFnAnimCurve
+MFnGeometryFilter
+MFnSkinCluster

@@ -1,0 +1,8 @@
+A MFnContainerNode
+A MFnReference
+A MFnSet
+A MItDag
+A MItDependencyGraph
+A MItDependencyNodes
+A MIteratorType
+A MURI
